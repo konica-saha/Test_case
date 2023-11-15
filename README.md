@@ -1,2 +1,2 @@
 # Test_Cases
-It is the some testcases sample.
+This is a Test case for a Web Application.
